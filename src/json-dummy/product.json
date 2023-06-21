@@ -1,0 +1,74 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "jenis": "Makanan",
+      "nama": "Beras IR 64",
+      "harga": "55.000",
+      "image": "https://cf.shopee.co.id/file/d6dfab0ab901ad8e0bb72a3b6b90f3a3"
+    },
+    {
+      "id": 2,
+      "jenis": "Pakaian",
+      "nama": "Erigo Jacket",
+      "harga": "155.000",
+      "image": "https://img.my-best.id/content_section/choice_component/sub_contents/9c6e9256283cbfae66639a0f887132ad.png?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=d56e90a4934d9708713d3a07b467f57c"
+    },
+    {
+      "id": 3,
+      "jenis": "Elektronik",
+      "nama": "Sony Alpha 7000 + lens",
+      "harga": "8.000.000",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//1177/sony-alpha-ilce_sony-alpha-a7-ii-kit-28-70mm-f-3-5-5-6-kamera-mirrorless_full06.jpg"
+    },
+    {
+      "id": 4,
+      "jenis": "Elektronik",
+      "nama": "AMD Ryzen 5 3600",
+      "harga": "3.200.000",
+      "image": "https://c1.neweggimages.com/ProductImage/19-113-569-V10.jpg"
+    },
+    {
+      "id": 5,
+      "jenis": "Elektronik",
+      "nama": "Samsung Galaxy S23",
+      "harga": "16.999.000",
+      "image": "https://images.samsung.com/id/smartphones/galaxy-s23/buy/kv_group_MO_v2.jpg"
+    },
+    {
+      "id": 6,
+      "jenis": "Kendaraan",
+      "nama": "Honda Beat Street 2023 110cc",
+      "harga": "17.999.000",
+      "image": "https://imgcdn.oto.com/medium/gallery/color/73/2269/honda-beat-street-esp-color-132611.jpg"
+    },
+    {
+      "id": 7,
+      "jenis": "Elektronik",
+      "nama": "AMD Ryzen 5 3600",
+      "harga": "3.200.000",
+      "image": "https://c1.neweggimages.com/ProductImage/19-113-569-V10.jpg"
+    },
+    {
+      "id": 8,
+      "jenis": "Elektronik",
+      "nama": "Sony Alpha 7000 + lens",
+      "harga": "8.000.000",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//1177/sony-alpha-ilce_sony-alpha-a7-ii-kit-28-70mm-f-3-5-5-6-kamera-mirrorless_full06.jpg"
+    },
+    {
+      "id": 9,
+      "jenis": "Kendaraan",
+      "nama": "Honda Beat Street 2023 110cc",
+      "harga": "17.999.000",
+      "image": "https://imgcdn.oto.com/medium/gallery/color/73/2269/honda-beat-street-esp-color-132611.jpg"
+    },
+    {
+      "id": 10,
+      "jenis": "Makanan",
+      "nama": "Beras IR 64",
+      "harga": "55.000",
+      "image": "https://cf.shopee.co.id/file/d6dfab0ab901ad8e0bb72a3b6b90f3a3"
+    }
+  ]
+}
